@@ -36,3 +36,4 @@ function command(find_player, find_to_player) {
     find_player.getPlayer().sendMessage(flew_player.get(find_to_player[0]));
   }
 }
+
