@@ -32,7 +32,7 @@
 
 1.安装更新后的插件，放入服务端启动一次
 
-2.然后进入/plugins/BlocklyNukkit/YML文件夹，可以找到开挂名单.yml
+2.然后进入/**plugins/BlocklyNukkit/YML**文件夹，可以找到**开挂名单.yml**
 
 3.右键并选择用记事本打开，就可以看到开挂违规记录
 
