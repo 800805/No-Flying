@@ -51,3 +51,4 @@ function win_return(return2) {
   logger.info(['玩家：【',return2.getPlayer(),'】申请加入服务器，理由：【',window.getEventCustomVar(return2,0,"input"),'】§4注意！该玩家曾【',flew_player.get(String(player_join_event.getPlayer())),'】§4，请注意防范！','您可以选择在§b开挂名单.yml','里将其信息删除并备份，即可以再加入服务器'].join(''));
   manager.kickPlayer(return2.getPlayer(),'已发送申请，通过后将可以加入游玩');
 }
+
