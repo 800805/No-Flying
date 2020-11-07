@@ -20,11 +20,11 @@
 
 ## 安装
 
-1.首先将前置插件放入/plugins文件夹
+1.首先将前置插件放入/**plugins文件夹
 
 2.运行一次服务端，启动成功后停止服务端
 
-2.将本插件放入/plugins/BlocklyNukkit文件夹中
+2.将本插件放入/**plugins/BlocklyNukkit文件夹中
 
 4.启动服务端，插件开始运行
 
